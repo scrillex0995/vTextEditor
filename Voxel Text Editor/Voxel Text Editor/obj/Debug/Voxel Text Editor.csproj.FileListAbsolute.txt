@@ -1,0 +1,17 @@
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.exe.config
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.exe.manifest
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.application
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.exe
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.pdb
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.csproj.AssemblyReference.cache
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.csproj.SuggestedBindingRedirects.cache
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.Information.resources
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.Settings.resources
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.TextEditor.resources
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.Properties.Resources.resources
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.csproj.GenerateResource.cache
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.csproj.CoreCompileInputs.cache
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.exe.manifest
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.application
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.exe
+D:\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.pdb
