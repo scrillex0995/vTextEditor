@@ -32,3 +32,19 @@ D:\Users\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Edit
 D:\Users\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.application
 D:\Users\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.exe
 D:\Users\fasha\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.pdb
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.exe.config
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.exe.manifest
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.application
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.exe
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\bin\Debug\Voxel Text Editor.pdb
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.Information.resources
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.Settings.resources
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.TextEditor.resources
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel_Text_Editor.Properties.Resources.resources
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.csproj.GenerateResource.cache
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.exe.manifest
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.application
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.exe
+D:\Users\User\Documents\Projects\VisualStudio\Voxel Text Editor\Voxel Text Editor\obj\Debug\Voxel Text Editor.pdb

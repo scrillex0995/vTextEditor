@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Voxel Text Editor.exe" size="794592">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Voxel Text Editor.exe" size="793568">
       <assemblyIdentity name="Voxel Text Editor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hT/PvQApOXV2xBcvCYTopdPdN0Iyz6NJJ7jzwd+AKyo=</dsig:DigestValue>
+        <dsig:DigestValue>Llw022Qk3f+zgx63TQDKscslz+EKdQnozoVTl5orJHY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

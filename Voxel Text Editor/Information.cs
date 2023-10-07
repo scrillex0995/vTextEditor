@@ -45,5 +45,11 @@ namespace Voxel_Text_Editor
                 versionLabel.ForeColor = ControlPaint.Light(Properties.Settings.Default.ThemeColor, 0.1f);
             }
         }
+
+        private void githubClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/scrillex0995/vTextEditor");
+            githubLink.LinkVisited = true;
+        }
     }
 }
